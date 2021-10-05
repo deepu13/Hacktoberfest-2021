@@ -49,7 +49,7 @@ Example:
 ```
 Name: your-name 
 
-Add in commands.md: [your-name](url-of-your-github-profile)
+Add in contributors.md: [your-name](url-of-your-github-profile)
 ```
 
 ## Push changes to GitHub
