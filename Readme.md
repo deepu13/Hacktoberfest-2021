@@ -42,7 +42,7 @@ git checkout -b 'branch-name'
 
 ## Make changes to the files
 
-Now open `Contributors.md` and add your Name with github profile in it.
+Now open `contributors.md` and add your Name with github profile in it.
 
 Example:
 
