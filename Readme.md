@@ -1,4 +1,4 @@
-This project is a collection of linux commands and their usage
+This project is for making for beginners to make contributions in open source.
 
 ## How to contribute
 
