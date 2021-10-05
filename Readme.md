@@ -47,9 +47,9 @@ Now open `Contributors.md` and add your Name with github profile in it.
 Example:
 
 ```
-Name: Abhinav 
+Name: your-name 
 
-Add in commands.md: [Abhinav](url-of-your-github-profile)
+Add in commands.md: [your-name](url-of-your-github-profile)
 ```
 
 ## Push changes to GitHub
